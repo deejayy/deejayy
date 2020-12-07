@@ -16,7 +16,7 @@ Enough boring, here is what I've done and may be interesting.
 
 ### Angular dependency graph drawer
 
-To see something which can be hardly seen, connections, relations, critical egdes or just loose ends of your projects.
+To see something which can hardly be seen, connections, relations, critical egdes or just loose ends of your projects.
 
 https://github.com/deejayy/ts-depgraph  
 https://www.npmjs.com/package/ts-depgraph
@@ -50,7 +50,7 @@ https://github.com/deejayy/consolevision
 
 I hosted some CS 1.6 servers for years (for 16 to be exact). I always wanted to extend the dedicated server's functionality, so here are my tries.
 
-https://github.com/deejayy/c4nn0n-cs-plugins - A custom AMXX plugin to fit my needs. It had IRC integration (I could communicate with the players inside the server without logging in), real-time monitoring through websockets (it has a nice frontend where I coul track the game, filter cheaters and such).  
+https://github.com/deejayy/c4nn0n-cs-plugins - A custom AMXX plugin to fit my needs. It had IRC integration (I could communicate with the players inside the server without logging in), real-time monitoring through websockets (it has a nice frontend where I could track the game, filter cheaters with AI(!) and such).  
 https://github.com/deejayy/hl.js - HLDS + Nodejs (yes, you can call hlds features from javascript)  
 https://github.com/deejayy/hlds-v8 - HLDS + v8 (same, but this is just v8)  
 
