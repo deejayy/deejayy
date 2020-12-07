@@ -6,7 +6,9 @@ So, here it is, a README.md about myself. Sounds odd, though.
 
 I'm a **developer** (let's say, since the millenium). Currently I'm working with frontend technologies, especially with Angular, but I've worked with a lot of others, too, like assembly, pascal/delphi, perl, php, pawn, etc. I also know some script languages, e.g. shell script, javascript, typescript, faded memories of powershell, etc. Of course, since I'm doing frontend work, I'm familiar with HTML and CSS, data exchange formats like JSON, XML, EDI, communication protocols and standards as HTTP, REST and the rest.
 
-I know how to set up a fully functional linux server or a small company infrastructure. For that I'm working with iptables, apache, postfix & co, xen virtualization, bind, openvpn, sometimes docker.
+I know how to set up a fully functional linux server or a small company infrastructure. For that I'm working with iptables, apache, postfix & co, xen virtualization, bind, openvpn, sometimes docker and if you give me a day, you can wish for anything else.
+
+I spent a considerably long time (5 years) managing popular enterprise-grade databases (Oracle and MSSQL) on various platforms (aix, linux, windows, solaris), however it was several years back, so unfortunately I can't help restoring your RMAN backup without reading manuals and support articles.
 
 I think you've already guessed I have a similar hobby as my 9to5 work.
 
