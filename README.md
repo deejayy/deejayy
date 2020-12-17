@@ -44,7 +44,7 @@ https://github.com/deejayy/cliqsound
 
 ### ConsoleVision for Delphi
 
-I don't really know how many years I put in this when I was young. My aim was to create a text-mode window manager and reimplement FAR Manager. I created other things with it, but not FAR Manager :) which went opensource some year later.
+I don't really know how many years I put in this when I was young. My aim was to create a text-mode window manager and reimplement FAR Manager. I created other things with it, but not FAR Manager :) which went opensource some years later.
 
 https://github.com/deejayy/consolevision
 
