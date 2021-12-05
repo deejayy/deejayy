@@ -16,6 +16,12 @@ Enough boring, here is what I've done and may be interesting.
 
 ## My projects
 
+### TuFA - A timed one-time-password generator (web)app
+
+You can use directly from https://tufa.cv.co.hu/ or clone and build (Angular 12). Can work as a desktop app or (fake) mobile app.
+
+https://github.com/deejayy/totp-app
+
 ### Angular dependency graph drawer
 
 To see something which can hardly be seen, connections, relations, critical egdes or just loose ends of your projects.
