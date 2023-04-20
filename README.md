@@ -16,6 +16,12 @@ Enough boring, here is what I've done and may be interesting.
 
 ## My projects
 
+### LinkedIn Noise Remover
+
+Removes "noise" from linkedin feed like "likes this", "celebrates this", etc. Only added value will remain.
+
+https://github.com/deejayy/linkedin-noise-remover
+
 ### TuFA - A timed one-time-password generator (web)app
 
 You can use directly from https://tufa.cv.co.hu/ or clone and build (Angular 12). Can work as a desktop app or (fake) mobile app.
