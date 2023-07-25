@@ -24,7 +24,7 @@ https://github.com/deejayy/linkedin-noise-remover
 
 ### TuFA - A timed one-time-password generator (web)app
 
-You can use directly from https://tufa.cv.co.hu/ or clone and build (Angular 12). Can work as a desktop app or (fake) mobile app.
+You can use directly from https://tufa.cv.co.hu/ or clone and build (Angular 16). Can work as a desktop app or (fake) mobile app.
 
 https://github.com/deejayy/totp-app
 
