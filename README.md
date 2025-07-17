@@ -42,7 +42,7 @@ This is what evolved in the past years: a shortcut to API calling and result acc
 https://github.com/deejayy/api-caller  
 https://www.npmjs.com/package/@deejayy/api-caller
 
-### Angular 18 "Initial Commit"
+### Angular 19 "Initial Commit"/"Bootstrap"/"Scaffolding"/you-name-it
 
 This is a repo I use when I want to quickly spin up an Angular project with a list of useful tools. Check the readme for them.
 
